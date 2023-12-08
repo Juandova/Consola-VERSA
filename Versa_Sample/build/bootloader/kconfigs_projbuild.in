@@ -1,0 +1,4 @@
+source "C:/Users/raray/OneDrive/Escritorio/Makers/VERSA/Aries-main/Aries-main/Proyecto/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/raray/OneDrive/Escritorio/Makers/VERSA/Aries-main/Aries-main/Proyecto/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "C:/Users/raray/OneDrive/Escritorio/Makers/VERSA/Aries-main/Aries-main/Proyecto/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/raray/OneDrive/Escritorio/Makers/VERSA/Aries-main/Aries-main/Proyecto/esp-idf/components/partition_table/Kconfig.projbuild"
